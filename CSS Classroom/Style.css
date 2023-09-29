@@ -1,0 +1,53 @@
+.First{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    color: white;
+    border: 2px solid black;
+}
+.Second{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    color: white;
+    border: 2px solid black;
+}
+.Third{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    color: white;
+    border: 2px solid black;
+}
+header{
+    color: white;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 40px;
+}
+a{
+    margin-right:175px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+footer{
+    color: black;
+}
